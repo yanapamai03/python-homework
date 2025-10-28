@@ -1,2 +1,1 @@
-# python-programming
-## นางสาว ญาณภา มงคล รหัสนักศึกษา 6812732137
+"# python-homework" 
