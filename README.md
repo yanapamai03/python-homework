@@ -1,4 +1,2 @@
-"# python-homework" 
-"# python-homework" 
-"# python-homework" 
-"# python-homework" 
+#Python programming 
+##นางสาว ญาณภา มงคล 6812732137
